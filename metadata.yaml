@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41701'
     url: http://www.gutenberg.org/2009/agents/41701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42467#The-College-Freshman-s-Don-t-Book--13-in-the-interests-of-freshmen-at-large-especially-those-_
 gutenberg_issued: '2013-04-04'
 gutenberg_type: Text
 identifiers:
