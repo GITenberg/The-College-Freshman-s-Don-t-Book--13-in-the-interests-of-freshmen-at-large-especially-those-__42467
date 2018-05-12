@@ -1,0 +1,35 @@
+_repo: The-College-Freshman-s-Don-t-Book--13-in-the-interests-of-freshmen-at-large-especially-those-__42467
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Ingerson, Frank
+    gutenberg_agent_id: '41702'
+    url: http://www.gutenberg.org/2009/agents/41702
+  - agent_name: Carter, Raymond
+    gutenberg_agent_id: '41703'
+    url: http://www.gutenberg.org/2009/agents/41703
+covers:
+- cover_type: archival
+  image_path: 42467-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evans, George Fullerton
+    gutenberg_agent_id: '41701'
+    url: http://www.gutenberg.org/2009/agents/41701
+description: ''
+gutenberg_issued: '2013-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College freshmen -- United States -- Life skills guides'
+- !lcc 'LB'
+title: "The College Freshman's Don't Book\r\nin the interests of freshmen at large,\
+  \ especially those whose remaining at large uninstructed & unguided appears a worry\
+  \ and a menace to college & university society these remarks and hints are set forth\
+  \ by G. F. E. (A. B.) a sympathizer"
+url: http://www.gutenberg.org/ebooks/42467
